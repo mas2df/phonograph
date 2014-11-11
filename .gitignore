@@ -52,3 +52,4 @@ docs/_build/
 
 # PyBuilder
 target/
+spotify_client_secret.txt
