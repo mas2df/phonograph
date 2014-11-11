@@ -8,5 +8,8 @@ Using the Spotify API, building out a graph database representation of music art
 * Set up your virtualenv
 ```
   $ pip install -r requirements.txt
+```
+* Run the application to load up the database
+```
   $ python phonograph.py
 ``` 
